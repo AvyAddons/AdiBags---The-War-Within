@@ -1,0 +1,16 @@
+package-as: AdiBags_War_Within
+enable-nolib-creation: no
+
+move-folders:
+    AdiBags_War_Within/AdiBags_War_Within: AdiBags_War_Within
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+ignore:
+    - CHANGELOG.md
+    - README.md
+    - .editorconfig
+    - .github
+    - assets/*

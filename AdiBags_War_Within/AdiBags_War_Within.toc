@@ -1,0 +1,28 @@
+## Interface: 110000
+
+## Title: AdiBags - The War Within
+## Notes: AdiBags filter for common War Within items.
+## Author: Avyiel
+## Version: @project-version@
+## IconTexture: Interface\Icons\inv_misc_bag_06
+
+## DefaultState: Enabled
+## Dependencies: AdiBags
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+
+## X-Date: @project-date-iso@
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+## X-Curse-Project-ID: 932980
+## X-Wago-ID:
+
+Database.lua
+Localization.lua
+Main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
